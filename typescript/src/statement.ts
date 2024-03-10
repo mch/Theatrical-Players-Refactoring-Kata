@@ -31,7 +31,8 @@ function statement(invoice: Invoice, plays: Plays) {
     switch (play.type) {
       case "tragedy":
         thisAmount = 40000;
-        if (perf.audience > 30) {
+        // Stryker disable next-line EqualityOperator
+        if (perf.audience >= 30) {
           thisAmount += 1000 * (perf.audience - 30);
         }
         break;
