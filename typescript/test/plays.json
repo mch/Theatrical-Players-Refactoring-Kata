@@ -1,5 +1,7 @@
 {
   "hamlet": {"name": "Hamlet", "type": "tragedy"},
   "as-like": {"name": "As You Like It", "type": "comedy"},
-  "othello": {"name": "Othello", "type": "tragedy"}
+  "othello": {"name": "Othello", "type": "tragedy"},
+  "alls-well": {"name": "All's Well That Ends Well", "type": "comedy"},
+  "a&c": {"name": "Antony and Cleopatra", "type": "tragedy"}
 }

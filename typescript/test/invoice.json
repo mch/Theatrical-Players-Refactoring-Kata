@@ -12,6 +12,14 @@
     {
       "playID": "othello",
       "audience": 40
+    },
+    {
+      "playID": "alls-well",
+      "audience": 20
+    },
+    {
+      "playID": "a&c",
+      "audience": 10
     }
   ]
 }
