@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Example from first chapter of 'Refactoring' by Martin Fowler, 2nd Edition (https://www.thoughtworks.com/books/refactoring2)",
   "scripts": {
+    "mutants": "stryker run",
     "test": "jest",
     "type-check": "tsc --noEmit"
   },
